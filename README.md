@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Django+Authentication+System;Secure+Login+%7C+Registration+%7C+Dashboard;Built+With+Django+%26+MySQL;Backend+Development+Project" alt="Typing Animation" />
+
+</div>
+
 ---
 
 # 🚀 Django Authentication System
