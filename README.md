@@ -6,9 +6,6 @@
 
 ---
 
-# 🚀 Django Authentication System
-
-\
 
 💻 Secure & Structured Authentication System
 Built with Django & MySQL
